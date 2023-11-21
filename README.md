@@ -4,6 +4,7 @@
 |--------------------------------|------------------------|----------------------------------------------|-----------|-------------
 | API Gateway (Reverse Proxy)    | python, Flask          | An API gateway is an intermediary between client and server in an API request | Completed | https://github.com/J-sephB-lt-n/api-gateway-reverse-proxy-python-flask
 | API Load-Testing               | python, locust, gunicorn, Flask | Illustrates how to use locust for load-testing, using some toy Flask endpoints | Completed | https://github.com/J-sephB-lt-n/api-load-testing
+| Automated python project documentation | python, github, MkDocs, MkDocStrings, Material for MkDocs | My exploration of auto-generated python project documentation using [MkDocs](https://github.com/mkdocs/mkdocs/) | In progress | https://github.com/J-sephB-lt-n/python-auto-documentation-with-mkdocstrings
 | Bash UI                        | bash                   | Using bash to create a simple user interface | Completed | https://github.com/J-sephB-lt-n/shellscript-user-interaction-example
 | Browser Fingerprinting         | Javascript, HTML       | A javascript-only browser fingerprinting implementation | Completed | https://github.com/J-sephB-lt-n/in-browser-device-fingerprint/
 | JSON Web Tokens                | python, Flask, pyJWT   | Me investigating how JWTs work               | Completed | https://github.com/J-sephB-lt-n/jwt-checkout 
