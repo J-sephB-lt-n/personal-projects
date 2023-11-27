@@ -7,6 +7,7 @@
 | Automated python project documentation | python, github, MkDocs, MkDocStrings, Material for MkDocs | My exploration of auto-generated python project documentation using [MkDocs](https://github.com/mkdocs/mkdocs/) | Completed | https://github.com/J-sephB-lt-n/python-auto-documentation-with-mkdocstrings
 | Bash UI                        | bash                   | Using bash to create a simple user interface | Completed | https://github.com/J-sephB-lt-n/shellscript-user-interaction-example
 | Browser Fingerprinting         | Javascript, HTML       | A javascript-only browser fingerprinting implementation | Completed | https://github.com/J-sephB-lt-n/in-browser-device-fingerprint/
+| Flask 202 Flow                 | python, Flask          | Illustration of how a [Flask](https://github.com/pallets/flask) endpoint can continue to run code *after* sending a response to the requesting client | Completed | https://github.com/J-sephB-lt-n/flask-202-flow
 | JSON Web Tokens                | python, Flask, pyJWT   | Me investigating how JWTs work               | Completed | https://github.com/J-sephB-lt-n/jwt-checkout 
 | Leetcode Solutions             | python                 | My own solutions to various [LeetCode](https://leetcode.com) problems | Ongoing | https://github.com/J-sephB-lt-n/leetcode-solutions
 | Multiclass Text Classification | python, scikit-learn, google universal sentence encoder | A pipeline for multiclass prediction of text data | Completed | https://github.com/J-sephB-lt-n/sklearn-text-classifier-pipeline 
