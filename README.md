@@ -12,6 +12,7 @@
 | Leetcode Solutions             | python                 | My own solutions to various [LeetCode](https://leetcode.com) problems | Ongoing | https://github.com/J-sephB-lt-n/leetcode-solutions
 | Me Learning Website Design     | html, css, javascript, react | My personal exploration of website building | In Progress | https://github.com/J-sephB-lt-n/me-learning-website-design 
 | Multiclass Text Classification | python, scikit-learn, google universal sentence encoder | A pipeline for multiclass prediction of text data | Completed | https://github.com/J-sephB-lt-n/sklearn-text-classifier-pipeline 
+| Multi-script python logging    | python                 | A simple example showing how python modules share logging config | Completed | https://github.com/J-sephB-lt-n/multi-script-python-logging
 | Python docker container        | python, Docker, Google Cloud Platform (GCP) | A basic python docker container (e.g. to use on GCP Compute Engine or AWS EC2) | Completed | https://github.com/J-sephB-lt-n/python-docker-container
 | Python project structure patterns | python | Documenting python project structures of established projects in order get a deeper understanding of python project structure | In progress | https://github.com/J-sephB-lt-n/python-project-layout-patterns
 | *Token-bucket* algorithm       | python, redis, fastAPI | Algorithm used for API rate-limiting (e.g. by AWS API Gateway) | Completed |https://github.com/J-sephB-lt-n/rate-limiter-token-bucket-algorithm
