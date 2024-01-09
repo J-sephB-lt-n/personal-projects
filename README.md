@@ -12,6 +12,7 @@
 | JSON Web Tokens                | python, Flask, pyJWT   | Me investigating how JWTs work               | Completed | https://github.com/J-sephB-lt-n/jwt-checkout 
 | Leetcode Solutions             | python                 | My own solutions to various [LeetCode](https://leetcode.com) problems | Ongoing | https://github.com/J-sephB-lt-n/leetcode-solutions
 | Me Learning Website Design     | html, css, javascript, react | My personal exploration of website building | In Progress | https://github.com/J-sephB-lt-n/me-learning-website-design 
+| My VIM configuration           | VIM                    | My personal VIM configuration                     | Ongoing     | https://github.com/J-sephB-lt-n/my-vim-config
 | Multiclass Text Classification | python, scikit-learn, google universal sentence encoder | A pipeline for multiclass prediction of text data | Completed | https://github.com/J-sephB-lt-n/sklearn-text-classifier-pipeline 
 | Multi-script python logging    | python                 | A simple example showing how python modules share logging config | Completed | https://github.com/J-sephB-lt-n/multi-script-python-logging
 | Python docker container        | python, Docker, Google Cloud Platform (GCP) | A basic python docker container (e.g. to use on GCP Compute Engine or AWS EC2) | Completed | https://github.com/J-sephB-lt-n/python-docker-container
