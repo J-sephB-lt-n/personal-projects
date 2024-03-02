@@ -22,4 +22,5 @@
 | Simple kubernetes cluster with MongoDB | Kubernetes, Minikube, Mongo, Mongo-Express | A simple k8s cluster showing basic kubernetes functionality by hosting a Mongo database and browser frontend | In Progress | https://github.com/J-sephB-lt-n/mongodb-with-admin-gui-in-k8s 
 | SQLite concurrency             | python, SQLite         | My investigation into a SQLite database's ability to handle concurrent reads and writes | Completed | https://github.com/J-sephB-lt-n/sqlite-concurrent-writes-investigation
 | *Token-bucket* algorithm       | python, redis, fastAPI | Algorithm used for API rate-limiting (e.g. by AWS API Gateway) | Completed |https://github.com/J-sephB-lt-n/rate-limiter-token-bucket-algorithm
+| Uses of __init__.py            | python, pytest         | Examples of different uses of the ```__init__.py``` file | Ongoing | https://github.com/J-sephB-lt-n/uses-of-__init__.py
 | VIM Training                   | VIM                    | Exercises which I created for myself in order to get better at using VIM | Ongoing | https://github.com/J-sephB-lt-n/vim-training/tree/main
