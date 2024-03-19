@@ -13,6 +13,7 @@
 | JSON Web Tokens                | python, Flask, pyJWT   | Me investigating how JWTs work               | Completed | https://github.com/J-sephB-lt-n/jwt-checkout 
 | Leetcode Solutions             | python                 | My own solutions to various [LeetCode](https://leetcode.com) problems | Ongoing | https://github.com/J-sephB-lt-n/leetcode-solutions
 | Me Learning Website Design     | html, css, javascript, react | My personal exploration of website building | In Progress | https://github.com/J-sephB-lt-n/me-learning-website-design 
+| Menus in Terminal              | python, curses         | Create menus in terminal using Python (standard library) | Alpha | https://github.com/J-sephB-lt-n/terminal-menu            
 | My bash/zsh configuration      | bash, zsh              | My personl .bashrc and .zshrc files | Ongoing | https://github.com/J-sephB-lt-n/my-personal-bashrc-zshrc
 | My VIM configuration           | VIM                    | My personal VIM configuration                     | Ongoing     | https://github.com/J-sephB-lt-n/my-vim-config
 | Multiclass Text Classification | python, scikit-learn, google universal sentence encoder | A pipeline for multiclass prediction of text data | Completed | https://github.com/J-sephB-lt-n/sklearn-text-classifier-pipeline 
