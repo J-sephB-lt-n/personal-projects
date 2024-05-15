@@ -15,8 +15,7 @@
 | Leetcode Solutions             | python                 | My own solutions to various [LeetCode](https://leetcode.com) problems | Ongoing | https://github.com/J-sephB-lt-n/leetcode-solutions
 | Me Learning Website Design     | html, css, javascript, react | My personal exploration of website building | In Progress | https://github.com/J-sephB-lt-n/me-learning-website-design 
 | Menus in Terminal              | python, curses         | Create menus in terminal using Python (standard library) | Alpha | https://github.com/J-sephB-lt-n/terminal-menu            
-| My bash/zsh configuration      | bash, zsh              | My personl .bashrc and .zshrc files | Ongoing | https://github.com/J-sephB-lt-n/my-personal-bashrc-zshrc
-| My VIM configuration           | VIM                    | My personal VIM configuration                     | Ongoing     | https://github.com/J-sephB-lt-n/my-vim-config
+| My bash/zsh/vim/tmux configs   | bash, vim, zsh, tmux   | Config files of my personal dev environment | Ongoing | https://github.com/J-sephB-lt-n/my-personal-config
 | Multiclass Text Classification | python, scikit-learn, google universal sentence encoder | A pipeline for multiclass prediction of text data | Completed | https://github.com/J-sephB-lt-n/sklearn-text-classifier-pipeline 
 | Multi-script python logging    | python                 | A simple example showing how python modules share logging config | Completed | https://github.com/J-sephB-lt-n/multi-script-python-logging
 | Python asyncio example         | python, asyncio        | Example usage of threaded concurrency in python using asyncio | Completed | https://github.com/J-sephB-lt-n/python-asyncio-example
