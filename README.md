@@ -1,5 +1,19 @@
 # Personal Projects
 
+My current active growth areas are:
+
+1. Rust
+
+2. Software development
+
+3. Causal inference
+
+4. Cloud architecture
+
+5. Data engineering
+
+6. Large Language Models
+
 | Project                        | Language/Framework     | Description                                  | Status    |Link
 |--------------------------------|------------------------|----------------------------------------------|-----------|-------------
 | API Gateway (Reverse Proxy)    | python, Flask          | An API gateway is an intermediary between client and server in an API request | Completed | https://github.com/J-sephB-lt-n/api-gateway-reverse-proxy-python-flask
